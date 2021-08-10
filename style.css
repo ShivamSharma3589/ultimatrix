@@ -71,7 +71,7 @@ body {
     transform: scale (1.1);
 }
 #clock:hover #des{
-    border:150px solid rgb(0, 255, 0);
+    border:150px solid rgb(54, 190, 0);
     border-right-color:black;
     border-left-color:black;
 }
